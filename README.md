@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there 👋  
 
-<!--
-**hirunijay/hirunijay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full-Stack Developer** with a passion for crafting seamless digital experiences!  
 
-Here are some ideas to get you started:
+📍 **Location:** Tampere, Finland  
+💡 **What I Do:**  
+- Build **scalable web apps** with modern technologies like React, Next.js, Node.js, and MongoDB.  
+- Design **responsive interfaces** for a consistent user experience across devices.  
+- Explore **DevOps practices** and improve backend skills.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 **Current Focus:**  
+- Creating a **chess game** as a personal project.  
+- Learning new tools and practices to contribute to open-source and innovative projects.  
+
+💼 **Let's Collaborate!**  
+I'm always open to exciting opportunities in tech!  
+
+---
+
+### GitHub Stats 📊  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hirunijay&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hirunijay&layout=compact&theme=radical)
+
+---
+
+🌱 **Let's connect!**  
+
+- [LinkedIn](https://www.linkedin.com/in/hiruni-s-jayasinghe/)
