@@ -31,7 +31,8 @@ I'm a **Full-Stack Developer** with a passion for crafting seamless digital expe
 
 
 🎯 **Current Focus:**  
-- Learning new tools and practices to contribute to open-source and innovative projects.  
+- Learning new tools and practices to contribute to open-source and innovative projects.
+- Writing technical blogs on [Medium](https://medium.com/@hirunijay45) to share knowledge and insights about web development and best practices.
 
 💼 **Let's Collaborate!**  
 
