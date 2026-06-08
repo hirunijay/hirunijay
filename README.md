@@ -36,14 +36,7 @@ I'm a **Full-Stack Developer** with a passion for crafting seamless digital expe
 
 💼 **Let's Collaborate!**  
 
-I'm always open to exciting opportunities in tech!  
-
----
-
-### GitHub Stats 📊  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hirunijay&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hirunijay&layout=compact&theme=radical)
+I'm always open to exciting opportunities in tech!
 
 ---
 
