@@ -1,15 +1,8 @@
-# Hello World 👋  
+# Hi, I'm Hiruni Jayasinghe 
 
-I'm a **Full-Stack Developer** with a passion for crafting seamless digital experiences!  
+I'm a software developer with professional experience in full-stack web development, currently pursuing an MSc in Software, Web and Cloud at Tampere University, Finland.
 
-📍 **Location:** Tampere, Finland  
-
-💡 **What I Do:**  
-- Build **scalable web apps** with modern technologies like React, Next.js, Node.js, and MongoDB.  
-- Design **responsive interfaces** for a consistent user experience across devices.  
-- Explore **DevOps practices** and improve backend skills.
-
-🧰 Languages and Tools
+## Technical Skills
 
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NextJs" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
@@ -29,18 +22,12 @@ I'm a **Full-Stack Developer** with a passion for crafting seamless digital expe
 
 <br /><br/>
 
+## Current Interests
 
+- Software design and software architecture
+- Cloud computing and DevOps
+- Artificial intelligence and machine learning
 
-🎯 **Current Focus:**  
-- Learning new tools and practices to contribute to open-source and innovative projects.
-- Writing technical blogs on [Medium](https://medium.com/@hirunijay45) to share knowledge and insights about web development and best practices.
-
-💼 **Let's Collaborate!**  
-
-I'm always open to exciting opportunities in tech!
-
----
-
-🌱 **Let's connect!**  
+## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/hiruni-s-jayasinghe/)
